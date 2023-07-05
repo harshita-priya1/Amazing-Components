@@ -1,3 +1,3 @@
 # Amazing Components
 
-A repository of amazing components for your next React project.
+A repository for different components for your next React project.
